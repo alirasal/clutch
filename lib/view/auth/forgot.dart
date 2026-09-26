@@ -27,7 +27,7 @@ class _ForgetState extends State<Forget> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  "Forgot Your Password",
+                  "Forgot Your Password ?",
                   style: GoogleFonts.aBeeZee(fontSize: 29),
                 ),
                 Align(alignment: Alignment.topLeft, child: Text(" Email")),
